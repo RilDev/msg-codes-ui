@@ -1,6 +1,6 @@
 # MSG Codes
 
-__Type a message and generate a link. This link will be usable only once.__
+_Type a message and generate a link. This link will be usable only once._
 
 ## Concept
 
@@ -21,15 +21,14 @@ Members have access to advanced functionalities:
 
 ## Todo
 
--[ ] make landing page where user can enter message
--[ ] make page where messages can be read
--[ ] add tailwind styling
--[ ] make app PWA
--[ ] add storybook
--[ ] Jest unit testing
--[ ] testing-library component testing
--[ ] GraphQl connect to API
--[ ] add loggin
--[ ] add user admin panel
--[ ] add Paypal membership
-
+- [ ] make landing page where user can enter message
+- [ ] make page where messages can be read
+- [ ] add tailwind styling
+- [ ] make app PWA
+- [ ] add storybook
+- [ ] Jest unit testing
+- [ ] testing-library component testing
+- [ ] GraphQl connect to API
+- [ ] add loggin
+- [ ] add user admin panel
+- [ ] add Paypal membership
