@@ -2,6 +2,10 @@
 	export let name: string;
 </script>
 
+<svelte:head>
+	<meta name="description" content="Type a message and generate a link. This link will be usable only once.">
+</svelte:head>
+
 <main>
 	<h1>Hello {name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
