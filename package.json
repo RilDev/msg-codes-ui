@@ -1,6 +1,6 @@
 {
-  "name": "svelte-app",
-  "version": "1.0.0",
+  "name": "msg-codes",
+  "version": "0.0.1",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -25,5 +25,22 @@
   },
   "dependencies": {
     "sirv-cli": "^1.0.0"
-  }
+  },
+  "description": "Type a message and generate a link. This link will be usable only once.",
+  "main": "rollup.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RilDev/msg-codes-ui.git"
+  },
+  "keywords": [
+    "messages",
+    "temporary",
+    "secret"
+  ],
+  "author": "RilDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RilDev/msg-codes-ui/issues"
+  },
+  "homepage": "https://github.com/RilDev/msg-codes-ui#readme"
 }
